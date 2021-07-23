@@ -1,5 +1,3 @@
-# To-Do-List
-C# 윈도우폼으로 만든 TO DO LIST 윈도우 전용 프로그램입니다. 
 # 🗒️ To Do List
 
 
